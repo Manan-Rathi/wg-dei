@@ -37,9 +37,6 @@ NOTE: that *how* we might ask these questions, and what potential answers might 
 1. Dis/Ability
 1. Caregiver (child or eldercare)
 1. Identifies as underrepresented (which can include components of above, or be separate)
-1. Paid contributor vs. unpaid volunteer contributor
-
-*NOTE:* that paid vs. unpaid contributors can be problematic and nuanced from the perspective of diversity and inclusion. Many people who participate as volunteers are coming at it from a position of privilege because they can afford to spend their free time participating in an open source project instead of working a second job to make ends meet, caring for family members, or spending time meeting basic survival needs. In other words, having more volunteer contributors might actually mean that the project is less diverse, rather than more diverse. However, in a corporate sponsored project, involving volunteer contributors could be a sign that the community is welcoming and inclusive.
 
 ## Metrics Focus Areas
 
